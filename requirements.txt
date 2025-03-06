@@ -1,0 +1,13 @@
+asyncio
+nest-asyncio
+pydantic
+streamlit
+crawl4ai
+duckduckgo-search
+python-dotenv
+groq
+langchain 
+selenium
+beautifulsoup4
+lxml 
+html5lib
