@@ -21,7 +21,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bipin-saha/Multi-Agent-Product-Analyzer
+   git clone https://github.com/polok-dev98/Multi-Agent-Product-Analyzer
    cd Multi-Agent-Product-Analyzer
 2. **Set Up a Virtual Environment:**
     ```bash
