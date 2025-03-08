@@ -2,12 +2,15 @@
 
 **AIAgentInsight** is a Streamlit-based web application designed to provide detailed insights and recommendations for analyzing product or company-related queries. It utilizes various agents for scraping, validating, and summarizing data from platforms like G2, Crunchbase, and DuckDuckGo, combined with the power of LLMs for query analysis and summary generation.
 
-## Features
-- **Query Analysis**: Analyze user queries to identify the product or company and generate search recommendations.
-- **G2 Reviews Extraction**: Fetch detailed product reviews, ratings, and sentiments from G2.
-- **Crunchbase Insights**: Aggregate and extract business-related insights from Crunchbase.
-- **Web Content Search**: Perform searches based on query recommendations and clean the extracted content.
-- **Summary Generation**: Combine data from multiple sources to generate a cohesive business analysis summary.
+![image](https://github.com/user-attachments/assets/05408381-c5a5-4075-9819-3fa29e36193d)
+
+
+🚀 ## Features
+- 🔎**Query Analysis**: Analyze user queries to identify the product or company and generate search recommendations.
+- 📝**G2 Reviews Extraction**: Fetch detailed product reviews, ratings, and sentiments from G2.
+- 📊**Crunchbase Insights**: Aggregate and extract business-related insights from Crunchbase.
+- 🌍**Web Content Search**: Perform searches based on query recommendations and clean the extracted content.
+- 📄**Summary Generation**: Combine data from multiple sources to generate a cohesive business analysis summary.
 
 ## Installation and Setup
 
