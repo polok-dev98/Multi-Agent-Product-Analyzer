@@ -1,9 +1,9 @@
 # 🚀 AIAgentInsight: Intelligent Analysis & Insights Platform  
 
-🎯 **AIAgentInsight** is a sleek and powerful **Streamlit-based web application** designed to provide deep insights and smart recommendations for **product and company analysis**. It leverages **multi-agent systems** for scraping, validating, and summarizing data from platforms like **G2, Crunchbase, and DuckDuckGo**, enhanced by **LLMs** for query processing and summary generation.  
+🎯 **AIAgentInsight** is a Streamlit-based web application designed to provide detailed insights and recommendations for analyzing product or company-related queries. It utilizes various agents (MultiAgents) for scraping, validating, and summarizing data from platforms like G2, Crunchbase, and DuckDuckGo, combined with the power of LLMs for query analysis and summary generation.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05408381-c5a5-4075-9819-3fa29e36193d" width="500">
+  <img src="https://github.com/user-attachments/assets/05408381-c5a5-4075-9819-3fa29e36193d" width="800">
 </p>  
 
 ---
